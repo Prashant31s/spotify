@@ -67,7 +67,7 @@ nav ul li{
     align-items: center;
     flex-direction: column;
     border-style: outset;
-    border-color: rgba(0, 128, 21, 0.952);
+    border-color: rgb(170, 225, 235);
     border-width: 5px;
     border-radius: 10px;
 }
